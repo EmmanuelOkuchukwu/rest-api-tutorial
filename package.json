@@ -1,0 +1,25 @@
+{
+  "name": "rest-api-tutorial",
+  "version": "1.0.0",
+  "description": "Node.js Restful API tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmanuelOkuchukwu/rest-api-tutorial.git"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "mysql",
+    "restapi"
+  ],
+  "author": "Emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmmanuelOkuchukwu/rest-api-tutorial/issues"
+  },
+  "homepage": "https://github.com/EmmanuelOkuchukwu/rest-api-tutorial#readme"
+}
